@@ -2,7 +2,6 @@
 
 Ultimate SMS is a powerful, flexible, and User-friendly Bulk SMS Marketing Application. It’s also an all-in-one solution for your SMS marketing. It’s easy to use & install.
 
-
 ### Prerequisites
 
 To run Ultimate SMS API you have to install Ultimate SMS Application on your server. 
